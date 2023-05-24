@@ -14,7 +14,7 @@ We have to be somewhat selective in order to keep making progress, but this does
 mean you can't contribute. Check out the contribution guide on our wiki:
 https://github.com/Significant-Gravitas/Auto-GPT/wiki/Contributing
 
-# 🚀 v0.3.1 Release 🚀
+# 🚀 v0.3.1 Release ! 🚀
 Over a week and 47 pull requests have passed since v0.3.0, and we are happy to announce
 the release of v0.3.1!
 
